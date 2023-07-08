@@ -1,0 +1,1 @@
+export { HeroiconsOutlineEnvelope } from "./HeroiconsOutlineEnvelope";

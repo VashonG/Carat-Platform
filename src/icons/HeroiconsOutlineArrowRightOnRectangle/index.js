@@ -1,0 +1,1 @@
+export { HeroiconsOutlineArrowRightOnRectangle } from "./HeroiconsOutlineArrowRightOnRectangle";

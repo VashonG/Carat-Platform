@@ -1,0 +1,1 @@
+export { HeroiconsOutlineMegaphone } from "./HeroiconsOutlineMegaphone";

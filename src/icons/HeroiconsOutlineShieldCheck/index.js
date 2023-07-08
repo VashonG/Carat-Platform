@@ -1,0 +1,1 @@
+export { HeroiconsOutlineShieldCheck } from "./HeroiconsOutlineShieldCheck";
